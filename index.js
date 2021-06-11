@@ -1,7 +1,7 @@
 const imgData = [
     {
         imgid: "image1",
-        imgsrc: "images/img1.jpg",
+        imgsrc: "img1.jpg",
         overview: "1 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore iure animi illum magnam voluptatum excepturi itaque molestiae veritatis, possimus aliquid.",
         client: "1 Lorem ipsum",
         info: "1 project and client info",
@@ -9,7 +9,7 @@ const imgData = [
     },
     {
         imgid: "image2",
-        imgsrc: "images/img2.jpg",
+        imgsrc: "img2.jpg",
         overview: "2 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore iure animi illum magnam voluptatum excepturi itaque molestiae veritatis, possimus aliquid.",
         client: "2 Lorem ipsum",
         info: "2 project and client info",
@@ -17,7 +17,7 @@ const imgData = [
     },
     {
         imgid: "image3",
-        imgsrc: "images/img3.jpg",
+        imgsrc: "img3.jpg",
         overview: "3 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore iure animi illum magnam voluptatum excepturi itaque molestiae veritatis, possimus aliquid.",
         client: "3 Lorem ipsum",
         info: "3 project and client info",
@@ -25,7 +25,7 @@ const imgData = [
     },
     {
         imgid: "image4",
-        imgsrc: "images/img4.jpg",
+        imgsrc: "img4.jpg",
         overview: "4 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore iure animi illum magnam voluptatum excepturi itaque molestiae veritatis, possimus aliquid.",
         client: "4 Lorem ipsum",
         info: "4 project and client info",
@@ -33,7 +33,7 @@ const imgData = [
     },
     {
         imgid: "image5",
-        imgsrc: "images/img5.jpg",
+        imgsrc: "img5.jpg",
         overview: "5 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore iure animi illum magnam voluptatum excepturi itaque molestiae veritatis, possimus aliquid.",
         client: "5 Lorem ipsum",
         info: "5 project and client info",
@@ -41,7 +41,7 @@ const imgData = [
     },
     {
         imgid: "image6",
-        imgsrc: "images/img6.jpg",
+        imgsrc: "img6.jpg",
         overview: "6 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore iure animi illum magnam voluptatum excepturi itaque molestiae veritatis, possimus aliquid.",
         client: "6 Lorem ipsum",
         info: "6 project and client info",
